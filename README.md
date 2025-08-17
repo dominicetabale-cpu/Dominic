@@ -1,1 +1,3 @@
-# Dominic
+#Dominic
+#hello there
+#Computer programming 
